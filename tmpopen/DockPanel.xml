@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DockItems>
+	<DockItem>
+		<Document
+			Title="Main">
+			<row>0</row>
+			<column>0</column>
+			<doc_number>0</doc_number>
+			<is_closable>false</is_closable>
+		</Document>
+	</DockItem>
+</DockItems>

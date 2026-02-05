@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DeviceParameters xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="QuattrocentoParametersViewModel">
+  <IsFocusedInDocking>false</IsFocusedInDocking>
+  <IsClosed>false</IsClosed>
+  <AdBits>16</AdBits>
+  <SampleSize>2</SampleSize>
+  <SamplingFrequency>2048</SamplingFrequency>
+  <Gain>150</Gain>
+  <ADC_Range>5</ADC_Range>
+  <TriggerRecordingSerialized>false</TriggerRecordingSerialized>
+  <SelectedAnalogOutput>0</SelectedAnalogOutput>
+  <SelectedInputChannel>0</SelectedInputChannel>
+  <SelectedAnalogGain>0</SelectedAnalogGain>
+  <AnalogOutSet>false</AnalogOutSet>
+</DeviceParameters>

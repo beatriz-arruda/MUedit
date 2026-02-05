@@ -41,8 +41,8 @@ clear
 close all;
 clc;
 %% Input parameters
-parameters.pathname = '/Users/savrillo/Downloads/'; % add a '/' at the end for Mac OS, add a '\' at the end for Windows
-parameters.filename = '10_DF.otb+'; % filename.otb+ or filename.mat
+parameters.pathname = 'C:\Users\beatr\OneDrive\UCL\HD-EMG\010825\'; %'/Users/savrillo/Downloads/'; % add a '/' at the end for Mac OS, add a '\' at the end for Windows
+parameters.filename = 'FDI20_FORCE10_1_forMUedit.mat'; %'FDI20_FORCE10_1.otb+'; %'FDI20_FORCE10_1.otb4_MUedit.mat';  %'10_DF.otb+'; % filename.otb+ or filename.mat
 
 % DECOMPOSITION PARAMETERS
 parameters.NITER = 75;
